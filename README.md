@@ -3,6 +3,15 @@
 A dynamic Streamlit dashboard to financially model any of the researched
 sub-£10k London business ideas — or your own.
  
+## Get it
+
+Clone the repository and move into the folder:
+
+```bash
+git clone https://github.com/gerardbita/Business_Ideas.git
+cd Business_Ideas
+```
+
 ## Run it
  
 ```bash
